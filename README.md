@@ -12,4 +12,4 @@ Test Task: Working with Queues and Multithreading
 Я использую 2 очереди используя ArrayBlockingQueue одна для очередей отправки, другая для сохранение не добавленых элементов.  
 RateLimiter -> tryAcquire хранит и проверяет сколько запросов было сделано за 1 минуту и сбрасывает счетчик  
 
-<img src="https://i.ibb.co/tpf0GY5f/IQueue.png" alt="Preview0" style="max-width: 75%; height: auto;">
+<img src="https://i.postimg.cc/NGWmKzkh/IQueue.png" alt="Preview0" style="max-width: 75%; height: auto;">
